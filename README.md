@@ -1,6 +1,6 @@
 Updated "Hello World!" program. 
 
-Logic: Beinners are capable of understanding two lines of code. We should expand the introduction to include:
+Logic: Beginners are capable of understanding two lines of code. We should expand the introduction to include:
 - variables
 - assignment statements
 - usage of Class
